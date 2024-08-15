@@ -1,7 +1,7 @@
 # 📱 Projeto UML Iphone
 
 ## 🚨 Sobre
-Um projeto para criar um diagramação de um Componente iPhone, onde tive que utilizar do recurso do UML e conhecimento de POO. Projeto esse proposto pela [DIO.ME](https://www.dio.me)
+Um projeto para criar um diagramação de um Componente iPhone e formatação do código em `Java`, onde tive que utilizar do recurso do UML e conhecimento de POO. Projeto esse proposto pela [DIO.ME](https://www.dio.me)
 
 ## 📈 UML
 ![Iphone-UML (2)](https://github.com/user-attachments/assets/5328ba70-695f-415b-a14d-28f00b0452a5)
