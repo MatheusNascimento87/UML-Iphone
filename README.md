@@ -1,18 +1,37 @@
-## Getting Started
+# 📱 Projeto UML Iphone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🚨 Sobre
+Um projeto para criar um diagramação de um Componente iPhone, onde tive que utilizar do recurso do UML e conhecimento de POO. Projeto esse proposto pela [DIO.ME](https://www.dio.me)
 
-## Folder Structure
+## 📈 UML
+![Iphone-UML (2)](https://github.com/user-attachments/assets/5328ba70-695f-415b-a14d-28f00b0452a5)
 
-The workspace contains two folders by default, where:
+## `Iphone`
+A classe `Iphone`é a classe principal que representa o celular. Ela irá implementar as interfaces fazendo com que ele consiga usar os métodos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## `ReprodutorMusical`
+Interface `ReprodutorMusical` é responsável pelos métodos para controlar a reprodução de musica, como `tocar()`, `pausar()` e `selecionarMusica(String musica)`.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## `AparelhoTelefonico`
+Interface `AparelhoTelefonico` é responsável pelos métodos para controlar as chamadas telefonicas e o correio de voz, como `ligar(String numero)`, `atender()` e `iniciarCorreioVoz(String mensagem)`.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## `NavegadorInternet`
+Interface `NavegadorInternet` é responsável pelos métodos para controlar a navegação na internet, incluindo `exibirPagina(String url)`, `adicionarNovaAba()` e `atualizarPagina()`.
 
-## Dependency Management
+## ⚙ Como usar
+```bash
+ # Clone o projeto
+  - Faça um Fork do projeto
+        ou
+  $ git clone https://github.com/MatheusNascimento87/UML-Iphone.git
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## 📄 Licença 
+Este projeto está sob a licença MIT. veja o arquivo [LICENSE](https://github.com/MatheusNascimento87/UML-Iphone/blob/main/LICENSE) para mais detalhes.
+
+
+## 📞 Contato
+
+### 📲  [Linkedin](https://www.linkedin.com/in/matheus-pereira-do-nascimento-124aa7303/)
+
